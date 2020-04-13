@@ -1,2 +1,2 @@
 # Sample
-online shopping sample website
+Online Shopping model website.
